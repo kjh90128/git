@@ -1,5 +1,4 @@
 add 
 edited in local 
 third
-remote
-remote2
+remote3
